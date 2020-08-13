@@ -1,0 +1,21 @@
+.searchBar select{
+    margin: 20px;
+    width: 10%;
+    height: 4vh;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;   
+}
+
+.searchBar{
+    background-color: rgb(168, 183, 199);
+    width: 100%;
+    text-align: center;   
+}
+
+.searchBar span{
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 50px; 
+}
+ 
